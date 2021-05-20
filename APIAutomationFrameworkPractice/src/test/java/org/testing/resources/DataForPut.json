@@ -1,0 +1,9 @@
+{
+	"firstname": "FirstKhan",
+	"lastname": "SecondKhan",
+	"age": "30",
+	"desigsnation": "TL",
+	"department": "IT",
+	"id":"{{id}}"
+
+}
